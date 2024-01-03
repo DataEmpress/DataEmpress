@@ -1,8 +1,8 @@
 It's 2024! 👋
 
-Hi there, my name is Christina Brown and I am Georgetown MSBA student and data analyst. My speciality is data analytics and technical documentation. I have a knack for taking very mathematical, complex concepts and making them indigestible for both business and technical folks alike. Take a look at some of my projects and cool blog posts and let's connect! 
+Hi there, my name is Christina Brown and I am a Georgetown MSBA student and data analyst. My speciality is data analytics and technical documentation. I have a knack for taking very mathematical, complex concepts and making them indigestible for both business and technical folks alike. Take a look at some of my projects and fascinating blog posts and let's connect! 
 
-Programming Languages:
+## Programming Languages:
 - R
 - Python
 - Tableau (Foundation)
