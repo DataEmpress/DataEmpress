@@ -3,10 +3,10 @@ It's 2024! 👋
 Hi there, my name is Christina Brown and I am Georgetown MSBA student and data analyst. My speciality is data analytics and technical documentation. I have a knack for taking very mathematical, complex concepts and making them indigestible for both business and technical folks alike. Take a look at some of my projects and cool blog posts and let's connect! 
 
 Programming Languages:
--R
--Python
--Tableau (Foundation)
--SQL (Foundation)
+- R
+- Python
+- Tableau (Foundation)
+- SQL (Foundation)
 
 <!--
 **DataEmpress/DataEmpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
