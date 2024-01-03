@@ -15,8 +15,9 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 -  <a href="https://colab.research.google.com/drive/1nMtYWwAMBbARNoS09EY2GyJ6ycmcl2zq?authuser=1#scrollTo=oenMClwuUUqT" target="_blank">CoRise Airbnb Sydney SQL 101 Week #1 Project </a>
 - <a href="https://colab.research.google.com/drive/1tziVIL7iCI51ubwdgf8gw_3lJ9O_S3pX#scrollTo=_buhQE6pEcxc" target="_blank">CoRise Airbnb Sydney SQL 101 Week #2 Project </a>
   
-## Big Data/AI Blog Posts
-- Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years
+## AI/Big Data/Tech Blog Posts
+- <a href="https://medium.com/@getonmyproductlevel/your-future-of-work-guide-7-jobs-generative-ai-will-eliminate-in-the-next-5-years-7392979f978f" target="_blank">Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years </a>
+- Top 4 Reasons Why Beyonce Is the Ultimate Product Manager
 - My Tech Adventure: Week #2 Recap
 - CoRise SQL Crash Course Review
 
