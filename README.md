@@ -19,7 +19,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - <a href="https://medium.com/@getonmyproductlevel/your-future-of-work-guide-7-jobs-generative-ai-will-eliminate-in-the-next-5-years-7392979f978f" target="_blank">Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years </a>
 - <a href="https://medium.com/@getonmyproductlevel/corise-sql-crash-course-review-87f850877c48" target="_blank">CoRise SQL Crash Course Review</a>
 - <a href="https://medium.com/@getonmyproductlevel/top-4-reasons-why-beyonce-is-the-ultimate-product-manager-6c2712c593b7" target="_blank">Top 4 Reasons Why Beyonce Is the Ultimate Product Manager </a>
--<a href="https://medium.com/@getonmyproductlevel/my-tech-career-adventure-week-2-f4988319ed3b" target="_blank">My Tech Adventure: Week #2 Recap</a>
+- <a href="https://medium.com/@getonmyproductlevel/my-tech-career-adventure-week-2-f4988319ed3b" target="_blank">My Tech Adventure: Week #2 Recap</a>
 
 ## My Shoutouts
 - <a href="https://brainstation.io/reviews-and-testimonials/christina-brown" target="_blank">BrainStation Alumni Profile</a>
