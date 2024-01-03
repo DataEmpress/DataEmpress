@@ -8,14 +8,14 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - Tableau (Foundation)
 - SQL (Foundation)
 
-## Machine Learning Projects:
+## Machine Learning Projects
 - <a href="https://www.google.com/](https://github.com/DataEmpress/LinkedIn-Machine-Learning-Simulation" target="_blank">LinkedIn Prediction Machine Learning App </a>
 
-## SQL Database Management Projects:
+## SQL Database Management Projects
 -  <a href="https://colab.research.google.com/drive/1nMtYWwAMBbARNoS09EY2GyJ6ycmcl2zq?authuser=1#scrollTo=oenMClwuUUqT" target="_blank">CoRise Airbnb Sydney SQL 101 Week #1 Project </a>
-- CoRise Airbnb Sydney SQL 101 Week #2 Project
+- <a href="https://colab.research.google.com/drive/1tziVIL7iCI51ubwdgf8gw_3lJ9O_S3pX#scrollTo=_buhQE6pEcxc" target="_blank">CoRise Airbnb Sydney SQL 101 Week #2 Project </a>
   
-## Big Data/AI Blog Posts: 
+## Big Data/AI Blog Posts
 - Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years
 - My Tech Adventure: Week #2 Recap
 - CoRise SQL Crash Course Review
