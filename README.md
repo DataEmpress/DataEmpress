@@ -2,7 +2,7 @@
 
 Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data analyst, and blogger. My speciality is data analytics and technical documentation. I have a knack for taking very mathematical, complex concepts and making them indigestible for both business and technical folks alike. Take a look at some of my projects below and fascinating blog posts and let's connect! 
 
-## Programming Languages:
+## Programming Languages
 - R
 - Python
 - Tableau (Foundation)
@@ -21,8 +21,8 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - <a href="https://medium.com/@getonmyproductlevel/top-4-reasons-why-beyonce-is-the-ultimate-product-manager-6c2712c593b7" target="_blank">Top 4 Reasons Why Beyonce Is the Ultimate Product Manager </a>
 -<a href="https://medium.com/@getonmyproductlevel/my-tech-career-adventure-week-2-f4988319ed3b" target="_blank">My Tech Adventure: Week #2 Recap</a>
 
-## My Mentions:
-- BrainStation Alumni Profile
+## My Shoutouts
+- <a href="https://brainstation.io/reviews-and-testimonials/christina-brown" target="_blank">BrainStation Alumni Profile</a>
   
 <!--
 **DataEmpress/DataEmpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
