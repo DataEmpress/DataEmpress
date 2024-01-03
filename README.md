@@ -12,7 +12,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - <a href="https://www.google.com/](https://github.com/DataEmpress/LinkedIn-Machine-Learning-Simulation" target="_blank">LinkedIn Prediction Machine Learning App </a>
 
 ## SQL Database Management Projects:
-- CoRise Airbnb Sydney SQL 101 Week #1 Project
+-  <a href="https://colab.research.google.com/drive/1nMtYWwAMBbARNoS09EY2GyJ6ycmcl2zq?authuser=1#scrollTo=oenMClwuUUqT" target="_blank">CoRise Airbnb Sydney SQL 101 Week #1 Project </a>
 - CoRise Airbnb Sydney SQL 101 Week #2 Project
   
 ## Big Data/AI Blog Posts: 
