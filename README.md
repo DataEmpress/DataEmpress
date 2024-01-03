@@ -17,7 +17,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
   
 ## AI/Big Data/Tech Blog Posts
 - <a href="https://medium.com/@getonmyproductlevel/your-future-of-work-guide-7-jobs-generative-ai-will-eliminate-in-the-next-5-years-7392979f978f" target="_blank">Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years </a>
-- Top 4 Reasons Why Beyonce Is the Ultimate Product Manager
+- <a href="https://medium.com/@getonmyproductlevel/top-4-reasons-why-beyonce-is-the-ultimate-product-manager-6c2712c593b7" target="_blank">Top 4 Reasons Why Beyonce Is the Ultimate Product Manager </a>
 - My Tech Adventure: Week #2 Recap
 - CoRise SQL Crash Course Review
 
