@@ -9,7 +9,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - SQL (Foundation)
 
 ## Machine Learning Projects:
-- LinkedIn Prediction Machine Learning App
+- <a href="https://www.google.com/" target="_blank">LinkedIn Prediction Machine Learning App </a>
 
 ## SQL Database Management Projects:
 - CoRise Airbnb Sydney SQL 101 Week #1 Project
