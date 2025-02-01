@@ -22,7 +22,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - <a href="https://medium.com/@getonmyproductlevel/my-tech-career-adventure-week-2-f4988319ed3b" target="_blank">My Tech Adventure: Week #2 Recap</a>
 
 ## My Shoutouts
-- <a href =https://blog.codingitforward.com/meet-the-2024-fellows-christina-brown-063484bde7a2" target="_blank"> Coding It Forward Fellowship Experience with the City of Portland</a>
+- <a href="https://blog.codingitforward.com/meet-the-2024-fellows-christina-brown-063484bde7a2" target="_blank"> Coding It Forward Fellowship Experience with the City of Portland</a>
 - <a href="https://brainstation.io/reviews-and-testimonials/christina-brown" target="_blank">BrainStation Alumni Profile</a>
   
 <!--
