@@ -1,4 +1,4 @@
-# It's 2024! 👋
+# It's 2025! 👋
 
 Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data analyst, and blogger. My speciality is data analytics and technical documentation. I have a knack for taking very mathematical, complex concepts and making them indigestible for both business and technical folks alike. Take a look at some of my projects below and fascinating blog posts and let's connect! 
 
@@ -7,6 +7,7 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 - Python
 - Tableau (Foundation)
 - SQL (Foundation)
+- Power BI
 
 ## Machine Learning Projects
 - <a href="https://github.com/DataEmpress/LinkedIn-Machine-Learning-Simulation" target="_blank">LinkedIn Prediction Machine Learning App </a>
@@ -18,10 +19,10 @@ Hi there, my name is Christina Brown and I am a Georgetown MSBA student, data an
 ## AI/Big Data/Tech Blog Posts
 - <a href="https://medium.com/@getonmyproductlevel/your-future-of-work-guide-7-jobs-generative-ai-will-eliminate-in-the-next-5-years-7392979f978f" target="_blank">Your Future of Work Guide: 7 Jobs Generative AI Will Eliminate in The Next 5 Years </a>
 - <a href="https://medium.com/@getonmyproductlevel/corise-sql-crash-course-review-87f850877c48" target="_blank">CoRise SQL Crash Course Review</a>
-- <a href="https://medium.com/@getonmyproductlevel/top-4-reasons-why-beyonce-is-the-ultimate-product-manager-6c2712c593b7" target="_blank">Top 4 Reasons Why Beyonce Is the Ultimate Product Manager </a>
 - <a href="https://medium.com/@getonmyproductlevel/my-tech-career-adventure-week-2-f4988319ed3b" target="_blank">My Tech Adventure: Week #2 Recap</a>
 
 ## My Shoutouts
+- <a href =https://blog.codingitforward.com/meet-the-2024-fellows-christina-brown-063484bde7a2" target="_blank"> Coding It Forward Fellowship Experience with the City of Portland</a>
 - <a href="https://brainstation.io/reviews-and-testimonials/christina-brown" target="_blank">BrainStation Alumni Profile</a>
   
 <!--
